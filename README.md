@@ -11,7 +11,7 @@ The dataset used in this project is known as the "Polarity Dataset". This datase
 
 **Language used:** Python
 
-**Project:** To see the project inplementation in Keras open [this](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20using%20Bag%20of%20Words%20model.ipynb) notebook and for implementation in Pytorch, open [this](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20using%20Bag%20of%20Words%20model_PyTorch.ipynb) notebook.
+**Project:** To see the project inplementation in Keras open [this](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20using%20Bag%20of%20Words%20model.ipynb) notebook and for implementation in PyTorch, open [this](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20using%20Bag%20of%20Words%20model_PyTorch.ipynb) notebook.
 
 **Helper:** You may refer the short [tutorial](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Short%20tutorial.ipynb) of some functions used in the project.
 
