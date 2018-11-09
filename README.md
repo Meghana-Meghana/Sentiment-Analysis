@@ -7,11 +7,11 @@ The dataset used in this project is known as the "Polarity Dataset". This datase
 
 **Model used:** Bag Of Words model, Multilayered Perceptron.
 
-**Tools Used:** NLTK, Keras, Numpy, Pandas, Matplotlib
+**Tools Used:** NLTK, Numpy, Pandas, Matplotlib, Keras or PyTorch
 
 **Language used:** Python
 
-**Project:** To see the project simply open the Jupyter Notebook, [Sentiment Analysis using Bag of Words model.ipynb](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20using%20Bag%20of%20Words%20model.ipynb).
+**Project:** To see the project inplementation in Keras open [this](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20using%20Bag%20of%20Words%20model.ipynb) notebook and for implementation in Pytorch, open [this](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Sentiment%20Analysis%20using%20Bag%20of%20Words%20model_PyTorch.ipynb) notebook.
 
 **Helper:** You may refer the short [tutorial](https://github.com/Meghana-Meghana/Sentiment-Analysis/blob/master/Short%20tutorial.ipynb) of some functions used in the project.
 
