@@ -17,4 +17,4 @@ The dataset used in this project is known as the "Polarity Dataset". This datase
 
 **Try it Yourself:** You can download and execute the python file after installing all the tools used.
 
-**P.S:** This project is heavily inspired by this [post](https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/).
+**P.S:** This project is inspired by this [post](https://machinelearningmastery.com/deep-learning-bag-of-words-model-sentiment-analysis/).
